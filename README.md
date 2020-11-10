@@ -88,4 +88,5 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Acknowledgements
 
+- Image used for resume index page Photo by [Fotis](https://unsplash.com/@ffstop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) Fotopoulos on [Unsplash](https://unsplash.com/s/photos/developer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 - I received inspiration for this project from X
